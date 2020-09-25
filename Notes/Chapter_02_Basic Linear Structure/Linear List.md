@@ -44,10 +44,21 @@ SeqList *L;
 ```
 5.可以通过```L=（SeqList *）malloc(sizeof(SeqList));```来获取顺序表的储存空间。
 ### 顺序表上基本运算的实现
-1.
-2.
+1.顺序表的初始化
+```
+SeqList *init_SeqList（）
+  {
+    SeqList *L;
+    L=(SeqList*)malloc(sizeof(SeqList));
+    L->last=-1;
+    return L;
+  }
+```
+2.顺序表的插入
+```
+
+```
 3.
 4.
 5.
 6.
-
