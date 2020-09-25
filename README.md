@@ -2,7 +2,7 @@
 #### This repository is some notes and exercises when I was studying data structure when I was in college. 
 #### It is now open source in order to record the mental journey and review it at any time.
 
-#### For information on Wikipedia's data structure.
+For information on Wikipedia's data structure.
 
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.[4
 Usage
