@@ -1,7 +1,9 @@
 # Data-Structures
 This repository is some notes and exercises when I was studying data structure when I was in college. 
 It is now open source in order to record the mental journey and review it at any time.
+
 For information on Wikipedia's data structure.
+
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.[1][2][3] More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.[4
 Usage
 Different types of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, relational databases commonly use B-tree indexes for data retrieval,[6] while compiler implementations usually use hash tables to look up identifiers.[7]
