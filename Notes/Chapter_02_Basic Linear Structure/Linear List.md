@@ -56,7 +56,12 @@ SeqList *init_SeqList（）
 ```
 2.顺序表的插入
 ```
-
+int Insert_SeqList(SeqList*L，int i,datatype x)
+  {
+    int j;
+    if(L->Last == MAXSIZE-1)
+    
+    }
 ```
 3.
 4.
